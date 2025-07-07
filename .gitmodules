@@ -1,0 +1,3 @@
+[submodule "jsbgym"]
+	path = jsbgym
+	url = https://github.com/pietbcm/jsbgym.git
