@@ -209,3 +209,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Logs and models
+logs/
+train/
